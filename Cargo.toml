@@ -1,0 +1,18 @@
+[package]
+name = "shalloc"
+version = "0.1.0"
+edition = "2021"
+authors = ["Aspect", "supahero1"]
+description = "Implements the `GlobalAlloc` trait for supahero1's allocator written in C: https://github.com/supahero1/alloc)"
+license = "Apache-2.0"
+keywords = ["memory-management", "allocation", "shalloc"]
+categories = ["memory-management", "api-bindings"]
+homepage = "https://github.com/supahero1/alloc"
+readme = "README.md"
+repository = "https://github.com/UE2020/shalloc"
+
+[dependencies]
+
+[build-dependencies]
+cc = "1.0"
+bindgen = "0.69.4"
