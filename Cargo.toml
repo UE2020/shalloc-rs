@@ -9,7 +9,7 @@ keywords = ["memory-management", "allocation", "shalloc"]
 categories = ["memory-management", "api-bindings"]
 homepage = "https://github.com/supahero1/alloc"
 readme = "README.md"
-repository = "https://github.com/UE2020/shalloc"
+repository = "https://github.com/UE2020/shalloc-rs"
 
 [dependencies]
 
