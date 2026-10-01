@@ -1,3 +1,6 @@
+Development has moved to [supahero1/shalloc-rs](https://github.com/supahero1/shalloc-rs).
+
+
 # shalloc
 
 This crate implements the `GlobalAlloc` trait for [supahero1's allocator written in C](https://github.com/supahero1/alloc).
